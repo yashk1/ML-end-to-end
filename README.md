@@ -22,3 +22,30 @@ conda activate penv
 ```
 
 ## Create requirements.txt
+
+```
+#install requirements
+pip install -r requirement.txt
+
+```
+
+
+# Git Commands
+
+To check all version maintained by git
+
+```
+git log
+```
+
+To create version/ commit all files
+
+```
+git commit -m "message"
+```
+
+To send version/changes to git
+
+```
+git push origin main
+```
