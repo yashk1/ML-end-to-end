@@ -49,3 +49,9 @@ To send version/changes to git
 ```
 git push origin main
 ```
+
+To check remote url
+
+```
+git remote -v
+```
