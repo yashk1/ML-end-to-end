@@ -82,7 +82,8 @@ docker images
 Run docker image
 
 ```
-docker run -p 4000:4000 -e PORT=4000 e34831e5210e
+docker run -p 4000:4000 -e PORT=4000 d702d2637a7e
+
 ```
 
 To check running containers
