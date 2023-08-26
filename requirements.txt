@@ -1,6 +1,6 @@
 flask
 gunicorn
 numpy
-sklearn
+scikit-learn
 pandas
 -e .
